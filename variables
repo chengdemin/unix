@@ -5,3 +5,4 @@ with the shell, variables always store only one type of data, CHARACTER STRING.
 At the time child is created, it INHERITS the PARENTD'S ENVIRONMENT.
 export shell variable to make it environment variable. (bourne shell family)
 setenv (C-Shell family) to set environment variable while shell variable is created by set. 
+use echo/print to show the value of a variable.
