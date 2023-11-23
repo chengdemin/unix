@@ -3,3 +3,4 @@ variables are compressed by NAME and VALUE.
 with the shell, variables always store only one type of data, CHARACTER STRING.
   PARENT PROCESS(PARENT) and CHILD PROCESS(CHILD) for a instance, start vi(child) text edit on shell(parent).
 At the time child is created, it INHERITS the PARENTD'S ENVIRONMENT.
+export shell variable to make it environment variable. 
